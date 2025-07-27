@@ -6,12 +6,16 @@ This portfolio encompasses notable work that I have done in `Csound`.
 
 Project [root folder](./Vocoder%20Arpeggiator/).
 
+[Video demo](https://youtu.be/Y1CugU6yUmE).
+
 <img src="Vocoder Arpeggiator/image.png" alt="Vocoder Arpeggiator layout image" width="30%">
 
 ## Vocoder Waveshaper
 This `CSoundQT` application is a vocoder, but instead of a static sawtooth excitation signal, we can use the result of a waveshaper function.
 
 Project [root folder](./Vocoder%20Waveshaper/).
+
+[Video demo](https://youtu.be/XBXPYZNaZpw).
 
 <img src="Vocoder Waveshaper/image.png" alt="Vocoder Waveshaper layout image" width="30%">
 
